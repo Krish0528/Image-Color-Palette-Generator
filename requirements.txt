@@ -1,0 +1,4 @@
+numpy==1.26.1
+Werkzeug==2.2.3
+Flask
+Pillow==10.1.0
